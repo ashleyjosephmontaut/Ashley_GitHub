@@ -1,1 +1,4 @@
-Editing this file and trying to pull it to local 
+Editing this file and trying to pull it to local. 
+Git pull is working successfully
+Now make changes to the file and open the same file in local and see if the changes are there. 
+The changes should not be there and we need to pull the same to local to see the changes reflecting. 
